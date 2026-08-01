@@ -1,18 +1,22 @@
 <div align="center">
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
-  Hey there, I'm ADARSH
-</h1>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" />
 
-### 💻 4★ Problem Solver | 🏆 SIH 2025 Finalist | 📜 11+ Certified Learner
+# Hi, I'm **Adarsh Soni**
 
-*"Learning deeply, simplifying complex concepts, and sharing knowledge with everyone."*
+### 🚀 Aspiring AI Engineer • Competitive Programmer • Open Source Learner
+
+<p>
+⭐ <b>4★ Problem Solver</b> &nbsp;|&nbsp;
+🏆 <b>SIH 2025 Finalist</b> &nbsp;|&nbsp;
+📜 <b>11+ Technical Certifications</b>
+</p>
+
+<p><i>"Turning ideas into intelligent solutions through code, continuous learning, and innovation."</i></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Competitive+Programmer;Building+Real-World+Projects;Always+Learning+Something+New;Sharing+Knowledge+Through+Code" alt="Typing SVG" />
 
 </div>
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=ADARSH+SONI;AI+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 
 ---
 
