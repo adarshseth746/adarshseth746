@@ -1,5 +1,3 @@
-# 📚 Premium Learning Notes
-
 <div align="center">
 
 # 👋 Hi, I'm Adarsh Soni
@@ -24,6 +22,7 @@ Hi! I'm **Adarsh Soni**, a passionate Computer Science student who believes that
 - 🚀 Dedicated to creating premium learning resources for students
 
 ---
+# 📚 Premium Learning Notes
 
 # 📖 About This Repository
 
