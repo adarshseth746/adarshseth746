@@ -1,12 +1,30 @@
-# 📚 Premium Learning Notes
-
 <div align="center">
 
-# 👋 Hi, I'm Adarsh Soni
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"/>
 
-### 💻 4★ Problem Solver | 🏆 SIH 2025 Finalist | 📜 11+ Certified Learner
+# Hi, I'm **Adarsh Soni** 👋
 
-*"Learning deeply, simplifying complex concepts, and sharing knowledge with everyone."*
+### 🚀 Aspiring AI Engineer • Competitive Programmer • Community Educator
+
+<p>
+⭐ <b>4★ Problem Solver</b> &nbsp;|&nbsp;
+🏆 <b>SIH 2025 Finalist</b> &nbsp;|&nbsp;
+📜 <b>11+ Technical Certifications</b>
+</p>
+
+<p>
+💙 Helping college students learn through <b>premium handwritten notes</b>,<br>
+real-world explanations, and beginner-friendly resources.
+</p>
+
+<p>
+🎯 My mission is to make Computer Science concepts easy to understand,
+so every student can learn with confidence and build a strong foundation.
+</p>
+
+<p><i>"Learn deeply, build consistently, and grow together."</i></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Competitive+Programmer;Creating+Premium+Learning+Notes;Helping+College+Students+Learn+Better;Building+Real-World+Projects;Sharing+Knowledge+One+Notebook+at+a+Time" alt="Typing SVG"/>
 
 </div>
 
