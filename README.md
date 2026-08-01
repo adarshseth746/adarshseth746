@@ -13,11 +13,6 @@
 </p>
 
 <p>
-💙 Helping college students learn through <b>premium handwritten notes</b>,<br>
-real-world explanations, and beginner-friendly resources.
-</p>
-
-<p>
 🎯 My mission is to make Computer Science concepts easy to understand,
 so every student can learn with confidence and build a strong foundation.
 </p>
