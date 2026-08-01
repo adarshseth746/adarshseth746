@@ -11,6 +11,9 @@
 
 </div>
 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=ADARSH+SONI;AI+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+
 ---
 
 ## 👨‍💻 About Me
