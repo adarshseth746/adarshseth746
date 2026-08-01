@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Adarsh Soni
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
 
 ### 💻 4★ Problem Solver | 🏆 SIH 2025 Finalist | 📜 11+ Certified Learner
 
