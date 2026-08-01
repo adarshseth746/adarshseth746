@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
+  Hey there, I'm ADARSH
+</h1>
 
 ### 💻 4★ Problem Solver | 🏆 SIH 2025 Finalist | 📜 11+ Certified Learner
 
