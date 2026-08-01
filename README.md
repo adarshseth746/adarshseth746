@@ -26,11 +26,11 @@
 Hi! I'm **Adarsh Soni**, a passionate Computer Science student who believes that **understanding concepts is far more valuable than memorizing them.**
 
 🏆 **Achievements**
-⭐ 4★ Problem Solver
-🏅 SIH (Smart India Hackathon) 2025 Finalist
-📜 Holder of 11+ Technical Certifications
-💡 Passionate about Problem Solving, AI, DSA & Software Development
-🚀 Dedicated to creating premium learning resources for students
+⭐ 4★ Problem Solver || 
+🏅 SIH (Smart India Hackathon) 2025 Finalist ||
+📜 Holder of 11+ Technical Certifications ||
+💡 Passionate about Problem Solving, AI, DSA & Software Development ||
+🚀 Dedicated to creating premium learning resources for students 
 
 ---
 # 📚 Premium Learning Notes
