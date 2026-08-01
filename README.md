@@ -8,7 +8,7 @@
 ### 🚀 Aspiring AI Engineer • Competitive Programmer • Open Source Learner
 
 <p>
-⭐ <b>4★ Problem Solver</b> &nbsp;|&nbsp;
+★ <b>4⭐★ Problem Solver</b> &nbsp;|&nbsp;
 🏆 <b>SIH 2025 Finalist</b> &nbsp;|&nbsp;
 📜 <b>11+ Technical Certifications</b>
 </p>
