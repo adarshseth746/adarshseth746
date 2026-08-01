@@ -1,21 +1,12 @@
+# 📚 Premium Learning Notes
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"/>
-<div align="center">
+# 👋 Hi, I'm Adarsh Soni
 
-# Hi, I'm **Adarsh Soni**
+### 💻 4★ Problem Solver | 🏆 SIH 2025 Finalist | 📜 11+ Certified Learner
 
-### 🚀 Aspiring AI Engineer • Competitive Programmer • Open Source Learner
-
-<p>
-★ <b>4⭐★ Problem Solver</b> &nbsp;|&nbsp;
-🏆 <b>SIH 2025 Finalist</b> &nbsp;|&nbsp;
-📜 <b>11+ Technical Certifications</b>
-</p>
-
-<p><i>"Turning ideas into intelligent solutions through code, continuous learning, and innovation."</i></p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Competitive+Programmer;Building+Real-World+Projects;Always+Learning+Something+New;Sharing+Knowledge+Through+Code" alt="Typing SVG" />
+*"Learning deeply, simplifying complex concepts, and sharing knowledge with everyone."*
 
 </div>
 
@@ -25,16 +16,14 @@
 
 Hi! I'm **Adarsh Soni**, a passionate Computer Science student who believes that **understanding concepts is far more valuable than memorizing them.**
 
-## 🏆 Achievements
-
-- ⭐ **4★ Problem Solver**
-- 🏅 **SIH (Smart India Hackathon) 2025 Finalist**
-- 📜 **11+ Technical Certifications Holder**
-- 💡 Passionate about **Problem Solving, AI, DSA & Software Development**
-- 🚀 Dedicated to creating **premium learning resources** for college students and aspiring developers
+🏆 **Achievements**
+- ⭐ 4★ Problem Solver
+- 🏅 SIH (Smart India Hackathon) 2025 Finalist
+- 📜 Holder of 11+ Technical Certifications
+- 💡 Passionate about Problem Solving, AI, DSA & Software Development
+- 🚀 Dedicated to creating premium learning resources for students
 
 ---
-# 📚 Premium Learning Notes
 
 # 📖 About This Repository
 
