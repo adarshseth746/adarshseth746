@@ -3,8 +3,6 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"/>
 <div align="center">
 
-
-
 # Hi, I'm **Adarsh Soni**
 
 ### 🚀 Aspiring AI Engineer • Competitive Programmer • Open Source Learner
