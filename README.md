@@ -1,10 +1,13 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"/>
+<div align="center">
 
-# Hi, I'm **Adarsh Soni** 👋
 
-### 🚀 Aspiring AI Engineer • Competitive Programmer • Community Educator
+
+# Hi, I'm **Adarsh Soni**
+
+### 🚀 Aspiring AI Engineer • Competitive Programmer • Open Source Learner
 
 <p>
 ⭐ <b>4★ Problem Solver</b> &nbsp;|&nbsp;
@@ -12,19 +15,9 @@
 📜 <b>11+ Technical Certifications</b>
 </p>
 
-<p>
-💙 Helping college students learn through <b>premium handwritten notes</b>,<br>
-real-world explanations, and beginner-friendly resources.
-</p>
+<p><i>"Turning ideas into intelligent solutions through code, continuous learning, and innovation."</i></p>
 
-<p>
-🎯 My mission is to make Computer Science concepts easy to understand,
-so every student can learn with confidence and build a strong foundation.
-</p>
-
-<p><i>"Learn deeply, build consistently, and grow together."</i></p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Competitive+Programmer;Creating+Premium+Learning+Notes;Helping+College+Students+Learn+Better;Building+Real-World+Projects;Sharing+Knowledge+One+Notebook+at+a+Time" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Competitive+Programmer;Building+Real-World+Projects;Always+Learning+Something+New;Sharing+Knowledge+Through+Code" alt="Typing SVG" />
 
 </div>
 
